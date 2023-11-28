@@ -1,0 +1,14 @@
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\bin\Debug\net6.0\ProjetoJogoOAT2.exe
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\bin\Debug\net6.0\ProjetoJogoOAT2.deps.json
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\bin\Debug\net6.0\ProjetoJogoOAT2.runtimeconfig.json
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\bin\Debug\net6.0\ProjetoJogoOAT2.dll
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\bin\Debug\net6.0\ProjetoJogoOAT2.pdb
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\ProjetoJogoOAT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\ProjetoJogoOAT2.AssemblyInfoInputs.cache
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\ProjetoJogoOAT2.AssemblyInfo.cs
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\ProjetoJogoOAT2.csproj.CoreCompileInputs.cache
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\ProjetoJogoOAT2.dll
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\refint\ProjetoJogoOAT2.dll
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\ProjetoJogoOAT2.pdb
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\ProjetoJogoOAT2.genruntimeconfig.cache
+C:\Users\walef\Documents\Programação\C#\ProjetoJogoOAT2\obj\Debug\net6.0\ref\ProjetoJogoOAT2.dll
